@@ -47,4 +47,8 @@ h1 {
     h1 {
         font-size: 75px;
     }
+
+    .main {
+        background-position: right center !important;
+    }
   }
